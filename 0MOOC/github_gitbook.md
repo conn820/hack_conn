@@ -1,4 +1,4 @@
-# git 私人教程
+# github与GitBook互推
 
 ## 背景
 
