@@ -1,9 +1,9 @@
 ﻿{
-"plugins": ["disqus"],
-“pluginsConfig”: {
-"disqus": {
- “shortName":” “conn820”
-  }
-}
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "XXXXXXX"
+        }
+    }  
 }
 
