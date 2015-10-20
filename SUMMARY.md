@@ -3,6 +3,7 @@
 	- [Active Learning](0MOOC/reverse.md)
 	- [Git本地与GitHub互推](0MOOC/git_github.md)
 	- [GitHub与GitBook互推](0MOOC/github_gitbook.md)
+	- [Git基本用法](0MOOC/git_basic.md)
 	- [当周总结](0MOOC/reflection.md)
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
